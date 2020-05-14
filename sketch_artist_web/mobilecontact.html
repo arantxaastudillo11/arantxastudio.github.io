@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="./img/favicon.png" rel="shortcut icon"/>
+        <meta charset="utf-8"/>
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+        <link href="./css/mobileContact.css" rel="stylesheet" type="text/css"/>
+        <meta content="AnimaApp.com - Design to code, Automated." name="author"/>
+    </head>
+    <body style="margin: 0;
+ background: rgba(255, 255, 255, 1.0);">
+        <input id="anPageName" name="page" type="hidden" value="mobilecontact"/>
+        <div class="mobilecontact anima-word-break ">
+            <div style="width: 320px; height: 100%; position:relative; margin:auto;">
+                <div class="hero">
+                    <div class="mask">
+                    </div>
+                    <img alt="Image" anima-src="./img/mobile---contact-hand.png" class="hand" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <div class="rectanglecopy">
+                    </div>
+                    <img alt="Image" anima-src="./img/mobile---contact-line-copy.png" class="linecopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                </div>
+                <div class="contactform">
+                    <div class="messege">
+                        <div class="rectangle">
+                        </div>
+                        <div class="yourmessege anima-valign-text-middle">
+                            <span><span class="span1">Your messege</span><span class="span2">…</span>
+    </span>
+                        </div>
+                    </div>
+                    <div class="subject">
+                        <div class="rectangle">
+                        </div>
+                        <div class="subject1 anima-valign-text-middle">
+                            <span><span class="span1">Subject</span><span class="span2">…</span>
+    </span>
+                        </div>
+                    </div>
+                    <div class="name">
+                        <div class="email">
+                            <div class="rectangle1">
+                            </div>
+                            <div class="emailu2026 anima-valign-text-middle">
+                                <span><span class="span1">E-mail</span><span class="span2">…</span>
+    </span>
+                            </div>
+                        </div>
+                        <div class="rectangle">
+                        </div>
+                        <div class="typeyourname anima-valign-text-middle">
+                            <span><span class="span1">Your Name</span><span class="span2">…</span>
+    </span>
+                        </div>
+                    </div>
+                    <div class="button">
+                        <div class="rectangle">
+                        </div>
+                        <div class="sendmessege anima-valign-text-middle">
+                            SEND MESSEGE
+                        </div>
+                    </div>
+                </div>
+                <div class="iwanttohearfromyoucopy2 anima-valign-text-middle">
+                    I want to hear from you!
+                </div>
+                <div class="footer">
+                    <div class="rectangle">
+                    </div>
+                    <div class="arantxastudiocomfooter">
+                        <div class="background">
+                        </div>
+                        <div class="arantxastudiocom anima-valign-text-middle">
+                            ArantxaStudio.com
+                        </div>
+                    </div>
+                </div>
+                <div class="header">
+                    <div class="rectangle">
+                    </div>
+                    <div class="logo">
+                        <div class="mask">
+                        </div>
+                        <img alt="Image" anima-src="./img/mobile---contact-favicon@2x.png" class="favicon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    </div>
+                    <div class="iconmenuwhite">
+                        <div class="background">
+                        </div>
+                        <img alt="Image" anima-src="./img/mobile--bio--res-path-4@2x.png" class="path4" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        <img alt="Image" anima-src="./img/mobile--bio--res-path-4@2x.png" class="path4copy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        <img alt="Image" anima-src="./img/mobile--bio--res-path-4@2x.png" class="path4copy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script>
+            anima_isHidden = function(e) {
+                if (!(e instanceof HTMLElement)) return !1;
+                if (getComputedStyle(e).display == "none") return !0; else if (e.parentNode && anima_isHidden(e.parentNode)) return !0;
+                return !1;
+            };
+            anima_loadAsyncSrcForTag = function(tag) {
+                var elements = document.getElementsByTagName(tag);
+                var toLoad = [];
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var src = e.getAttribute("src");
+                    var loaded = (src != undefined && src.length > 0 && src != 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+                    if (loaded) continue;
+                    var asyncSrc = e.getAttribute("anima-src");
+                    if (asyncSrc == undefined || asyncSrc.length == 0) continue;
+                    if (anima_isHidden(e)) continue;
+                    toLoad.push(e);
+                }
+                toLoad.sort(function(a, b) {
+                    return anima_getTop(a) - anima_getTop(b);
+                });
+                for (var i = 0; i < toLoad.length; i++) {
+                    var e = toLoad[i];
+                    var asyncSrc = e.getAttribute("anima-src");
+                    e.setAttribute("src", asyncSrc);
+                }
+            };
+            anima_pauseHiddenVideos = function(tag) {
+                var elements = document.getElementsByTagName("video");
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var isPlaying = !!(e.currentTime > 0 && !e.paused && !e.ended && e.readyState > 2);
+                    var isHidden = anima_isHidden(e);
+                    if (!isPlaying && !isHidden && e.getAttribute("autoplay") == "autoplay") {
+                        e.play();
+                    } else if (isPlaying && isHidden) {
+                        e.pause();
+                    }
+                }
+            };
+            anima_loadAsyncSrc = function(tag) {
+                anima_loadAsyncSrcForTag("img");
+                anima_loadAsyncSrcForTag("iframe");
+                anima_loadAsyncSrcForTag("video");
+                anima_pauseHiddenVideos();
+            };
+            var anima_getTop = function(e) {
+                var top = 0;
+                do {
+                    top += e.offsetTop || 0;
+                    e = e.offsetParent;
+                } while (e);
+                return top;
+            };
+            anima_loadAsyncSrc();
+            anima_old_onResize = window.onresize;
+            anima_new_onResize = undefined;
+            anima_updateOnResize = function() {
+                if (anima_new_onResize == undefined || window.onresize != anima_new_onResize) {
+                    anima_new_onResize = function(x) {
+                        if (anima_old_onResize != undefined) anima_old_onResize(x);
+                        anima_loadAsyncSrc();
+                    };
+                    window.onresize = anima_new_onResize;
+                    setTimeout(function() {
+                        anima_updateOnResize();
+                    }, 3000);
+                }
+            };
+            anima_updateOnResize();
+            setTimeout(function() {
+                anima_loadAsyncSrc();
+            }, 200);
+        </script>
+        <!-- End of Scripts -->
+    </body>
+</html>

@@ -1,0 +1,671 @@
+
+
+.mobileportfolio {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 2223px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.mobileportfolio .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 81px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .rectangle {
+  background-color    : rgba(132, 132, 132, 0.85);
+  top                 : 0px;
+  height              : 81px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 69px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .logo .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 69px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .logo .favicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 65px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .iconmenuwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 239px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .iconmenuwhite .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .iconmenuwhite .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 3px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .iconmenuwhite .path4copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 3px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .header .iconmenuwhite .path4copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : 3px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2182px;
+  height              : 41px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .footer .rectangle {
+  background-color    : rgba(132, 132, 132, 0.85);
+  top                 : 0px;
+  height              : 41px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .footer .arantxastudiocomfooter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 30px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .footer .arantxastudiocomfooter .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .footer .arantxastudiocomfooter .arantxastudiocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 541px;
+  position            : absolute;
+  margin              : 0;
+  left                : -111px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 34.0px;
+}
+.mobileportfolio .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : 2069px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .sculptures {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2069px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .paintings {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 1269px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .paintings .mask {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 0px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .paintings .painting {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -42px;
+  height              : 470px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : -60px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .paintings .rectangle {
+  background-color    : rgba(0, 0, 0, 0.5);
+  top                 : 233px;
+  height              : 175px;
+  box-sizing          : border-box;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .paintings .paintingsdrawings {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 245px;
+  height              : 51px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.67px;
+  line-height         : 39.0px;
+}
+.mobileportfolio .portfolio .paintings .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 230px;
+  height              : 5px;
+  width               : 294px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .dslr {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 869px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .dslr .mask {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 0px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .dslr .dslr2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -11px;
+  height              : 381px;
+  width               : 681px;
+  position            : absolute;
+  margin              : 0;
+  left                : -303px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .dslr .rectangle {
+  background-color    : rgba(0, 0, 0, 0.5);
+  top                 : 250px;
+  height              : 158px;
+  box-sizing          : border-box;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .dslr .dslr1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 51px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.67px;
+  line-height         : 39.0px;
+}
+.mobileportfolio .portfolio .dslr .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 248px;
+  height              : 5px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : -6px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .codebased {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 469px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .codebased .mask {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 0px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .codebased .codebased2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -28px;
+  height              : 416px;
+  width               : 535px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .codebased .rectangle {
+  background-color    : rgba(0, 0, 0, 0.5);
+  top                 : 250px;
+  height              : 158px;
+  box-sizing          : border-box;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .codebased .codebased1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 51px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.67px;
+  line-height         : 39.0px;
+}
+.mobileportfolio .portfolio .codebased .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 248px;
+  height              : 5px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .a3drenders {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 69px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .a3drenders .mask {
+  background-color    : rgba(0, 0, 0, 0.1);
+  top                 : 0px;
+  height              : 370px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .a3drenders .a3drenders2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -9px;
+  height              : 497px;
+  width               : 584px;
+  position            : absolute;
+  margin              : 0;
+  left                : -278px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .a3drenders .rectangle {
+  background-color    : rgba(0, 0, 0, 0.5);
+  top                 : 250px;
+  height              : 158px;
+  box-sizing          : border-box;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .a3drenders .a3drenders1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 51px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.67px;
+  line-height         : 39.0px;
+}
+.mobileportfolio .portfolio .a3drenders .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 248px;
+  height              : 5px;
+  width               : 296px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.mobileportfolio .portfolio .portfolio1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 36px;
+  width               : 322px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 32.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

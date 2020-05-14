@@ -1,0 +1,834 @@
+
+
+.tabletbiores {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 2351px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.tabletbiores .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2282px;
+  height              : 66px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .rectangle {
+  background-color    : rgba(132, 132, 132, 0.85);
+  top                 : 3px;
+  height              : 63px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .arantxastudiocomfooter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 36px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 295px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .arantxastudiocomfooter .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .arantxastudiocomfooter .arantxastudiocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : -62px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 34.0px;
+}
+.tabletbiores .footer .nav1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 546px;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .nav1 .tablethome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .nav1 .tablethome .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .footer .nav1 .tabletportfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .nav1 .tabletportfolio .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .footer .nav1 .tabletbio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .nav1 .tabletbio .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .nav1 .tabletbio .bioresume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 16px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .footer .nav1 .tabletcontact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 461px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .nav1 .tabletcontact .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .footer .nav1 .tabletcontact .contact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 21px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .nav {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1290px;
+  height              : 36px;
+  width               : 546px;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .nav .tablethome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .nav .tablethome .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .nav .tabletportfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .nav .tabletportfolio .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .nav .tabletbio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .nav .tabletbio .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .nav .tabletbio .bioresume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 16px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .nav .tabletcontact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 461px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .nav .tabletcontact .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .nav .tabletcontact .contact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 21px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.tabletbiores .resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1117px;
+  height              : 1139px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .resume .rectangle {
+  background-color    : rgba(167, 170, 189, 1.0);
+  top                 : 0px;
+  height              : 1139px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .resume .resume1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 55px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 32.0px;
+}
+.tabletbiores .resume .buttonview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 66px;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .resume .buttonview .rectangle1 {
+  background-color    : rgba(240, 213, 168, 1.0);
+  top                 : 0px;
+  height              : 66px;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .resume .buttonview .download {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 66px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : 9.0px;
+  line-height         : 39.0px;
+}
+.tabletbiores .resume .resume20201 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 921px;
+  width               : 712px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .biographyresumecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 46px;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 58.0px;
+}
+.tabletbiores .hero {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 1091px;
+  width               : 769px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .hero .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 1091px;
+  width               : 769px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .hero .selfiegrey {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -6px;
+  height              : 1024px;
+  width               : 1281px;
+  position            : absolute;
+  margin              : 0;
+  left                : -180px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .hero .rectanglecopy {
+  background-color    : rgba(0, 0, 0, 0.5);
+  top                 : 531px;
+  height              : 560px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .hero .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 529px;
+  height              : 8px;
+  width               : 777px;
+  position            : absolute;
+  margin              : 0;
+  left                : -4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .hero .arantxaastudillois {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 543px;
+  height              : 560px;
+  width               : 706px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.67px;
+  line-height         : 39.0px;
+}
+.tabletbiores .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 124px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .rectangle {
+  background-color    : rgba(132, 132, 132, 0.85);
+  top                 : 0px;
+  height              : 124px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 98px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .logo .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 98px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .logo .favicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 93px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .arantxastudiocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 36px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .arantxastudiocom .arantxastudiocom1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 58.0px;
+}
+.tabletbiores .header .iconmenuwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 642px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .iconmenuwhite .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .iconmenuwhite .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 3px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .iconmenuwhite .path4copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 3px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .header .iconmenuwhite .path4copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : 3px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.tabletbiores .biographyresumecopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 138px;
+  height              : 46px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 58.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

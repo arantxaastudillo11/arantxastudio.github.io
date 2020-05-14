@@ -1,0 +1,957 @@
+
+
+.pccontact {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 871px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.pccontact .hero {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 871px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .hero .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 871px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .hero .selfiegrey {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -6px;
+  height              : 1174px;
+  width               : 1469px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .hero .hand {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -650px;
+  height              : 1910px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .hero .rectanglecopy2 {
+  background-color    : rgba(0, 0, 0, 0.5);
+  top                 : 222px;
+  height              : 536px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .hero .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 757px;
+  height              : 6px;
+  width               : 1442px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .hero .linecopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 216px;
+  height              : 14px;
+  width               : 1450px;
+  position            : absolute;
+  margin              : 0;
+  left                : -4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 250px;
+  height              : 472px;
+  width               : 1095px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 384px;
+  width               : 1095px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .messege {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 206px;
+  height              : 178px;
+  width               : 1095px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .messege .rectangle1 {
+  background-color    : rgba(0, 0, 0, 0.75);
+  top                 : 7px;
+  height              : 171px;
+  box-sizing          : border-box;
+  width               : 1095px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(202, 202, 202, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .messege .yourmessege {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(202, 202, 202, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.pccontact .contactform .email .messege .yourmessege .span1 {
+  line-height         : 26.0px;
+}
+.pccontact .contactform .email .messege .yourmessege .span2 {
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  line-height         : 18.0px;
+}
+.pccontact .contactform .email .subject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 144px;
+  height              : 55px;
+  width               : 1095px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .subject .rectangle1 {
+  background-color    : rgba(0, 0, 0, 0.75);
+  top                 : 0px;
+  height              : 55px;
+  box-sizing          : border-box;
+  width               : 1095px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(202, 202, 202, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .subject .subject1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 21px;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(202, 202, 202, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.pccontact .contactform .email .subject .subject1 .span1 {
+  line-height         : 26.0px;
+}
+.pccontact .contactform .email .subject .subject1 .span2 {
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  line-height         : 18.0px;
+}
+.pccontact .contactform .email .name {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 55px;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .name .rectangle1 {
+  background-color    : rgba(0, 0, 0, 0.75);
+  top                 : 0px;
+  height              : 55px;
+  box-sizing          : border-box;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(202, 202, 202, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .name .typeyourname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 21px;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(202, 202, 202, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.pccontact .contactform .email .name .typeyourname .span1 {
+  line-height         : 26.0px;
+}
+.pccontact .contactform .email .name .typeyourname .span2 {
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  line-height         : 18.0px;
+}
+.pccontact .contactform .email .rectangle {
+  background-color    : rgba(0, 0, 0, 0.75);
+  top                 : 75px;
+  height              : 55px;
+  box-sizing          : border-box;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 556px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(202, 202, 202, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .email .emailu2026 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 92px;
+  height              : 21px;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 568px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(202, 202, 202, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.pccontact .contactform .email .emailu2026 .span1 {
+  line-height         : 26.0px;
+}
+.pccontact .contactform .email .emailu2026 .span2 {
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  line-height         : 18.0px;
+}
+.pccontact .contactform .email .iwanttohearfromyoucopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 58.0px;
+}
+.pccontact .contactform .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 416px;
+  height              : 56px;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 298px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .button .rectangle {
+  background-color    : rgba(241, 214, 168, 1.0);
+  top                 : 1px;
+  height              : 55px;
+  width               : 500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 27px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .contactform .button .sendmessege {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 32.0px;
+}
+.pccontact .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 124px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .rectangle {
+  background-color    : rgba(132, 132, 132, 0.85);
+  top                 : 0px;
+  height              : 124px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 98px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .logo .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 98px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .logo .favicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 93px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 36px;
+  width               : 545px;
+  position            : absolute;
+  margin              : 0;
+  left                : 842px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav .home .home1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .header .nav .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav .portfolio .portfolio1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .header .nav .bioresume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav .bioresume .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav .bioresume .bioresume1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 16px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .header .nav .contact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 460px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav .contact .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .nav .contact .contact1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 21px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .header .arantxastudiocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 36px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .header .arantxastudiocom .arantxastudiocom1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 58.0px;
+}
+.pccontact .footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 808px;
+  height              : 63px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .rectangle {
+  background-color    : rgba(132, 132, 132, 0.85);
+  top                 : 0px;
+  height              : 63px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .logo .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .logo .favicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 49px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 36px;
+  width               : 546px;
+  position            : absolute;
+  margin              : 0;
+  left                : 841px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav .home .home1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .footer .nav .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav .portfolio .portfolio1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .footer .nav .bioresume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 282px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav .bioresume .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav .bioresume .bioresume1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 16px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .footer .nav .contact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 461px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav .contact .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .nav .contact .contact1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 21px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.pccontact .footer .arantxastudiocomfooter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 36px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .arantxastudiocomfooter .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.pccontact .footer .arantxastudiocomfooter .arantxastudiocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : -62px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KannadaSangamMN-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 34.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
